@@ -1,0 +1,11 @@
+REQUIREMENTS
+
+The function ideally takes in the following inputs: 
+--sf or sp dataset
+--x dimension
+--y dimension
+--x labels
+--y labels
+---the following are optional:
+----x palette
+----y palette
